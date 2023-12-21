@@ -1,0 +1,18 @@
+.todoForm {
+	display: flex;
+}
+
+.todoInput {
+	width: 300px;
+    height: 35px;
+    border-radius: 8px;
+    margin-right: 10px;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+    border-color: transparent;
+}
+
+.todoBtn {
+	background-color: #407add;
+    color: white;
+    border-color: transparent;
+}

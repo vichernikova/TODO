@@ -1,0 +1,14 @@
+.todoList {
+	list-style-type: none;
+	max-width: 400px;
+}
+
+.todoItem {
+	display: flex;
+}
+
+.todoTitle {
+	text-overflow: ellipsis;
+    overflow: hidden;
+	margin-right: 15px;
+}
